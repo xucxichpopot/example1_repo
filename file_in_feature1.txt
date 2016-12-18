@@ -1,5 +1,5 @@
 fix bug1
 fig bug2
-fix bug3
+fix bug3 (correct)
 fix bug4...
 bug5
