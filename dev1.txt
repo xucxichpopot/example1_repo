@@ -1,7 +1,12 @@
 develop edit new one line. hehe, conflict? hehe
 Master edit
+
 aaa
 
 bbb
 
 vcc
+
+bbbvcc
+changed in feature1
+
