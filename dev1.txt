@@ -5,3 +5,4 @@ changed in feature1
 adding
 adding2
 adding3
+feature1 adding 4
