@@ -4,3 +4,4 @@ bbbvcc
 changed in feature1
 adding
 adding2
+adding3
