@@ -1,4 +1,12 @@
 fix bug1
 
+
+
 fig bug2
 fix bug2
+
+
+fig bug2
+fix bug4...
+bug5
+ fix bugs
